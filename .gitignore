@@ -37,3 +37,6 @@ terraform.rc
 0.setup/1.vm/.terraform.lock.hcl
 .DS_Store
 .DS_Store
+ 
+# my exclusions
+5.CICD/kubeconfig.yml
